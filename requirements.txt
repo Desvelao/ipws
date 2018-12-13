@@ -1,0 +1,4 @@
+pipreqs==0.4.9
+selenium==3.13.0
+aiohttp==2.2.5
+beautifulsoup4==4.6.0
