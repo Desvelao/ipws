@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# instagram.py Download images from instagram profiles created by Desvelao^^ (iamdesvelao@gmail.com)
+# ipws.py Download images from instagram profiles created by Desvelao^^ (iamdesvelao@gmail.com)
 # refs https://stackoverflow.com/questions/31784484/how-to-parallelized-file-downloads
 # Get Instagram photos: https://www.techuntold.com/view-full-size-instagram-photos/
 # Selenium docs: https://selenium-python.readthedocs.io/installation.html#drivers
