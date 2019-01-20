@@ -23,6 +23,10 @@ Example:
 python3 ipws.py dota2ti
 ```
 
+#### Add program to PATH
+
+You can add this program to the PATH adding this folder to PATH or only put `ipws.bat` (on Windows) in a folder that is in the path and change the path to `ipws.py` file contained in the bat file.
+
 #### Improvements
 
 [] It can't download albums at this time. It's neccessary to go that url and download all photos from album.
