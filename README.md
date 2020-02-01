@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 
 #### Use
-In a terminal go to IPWS folder and execute:
+In a terminal, go to IPWS folder and execute:
 
 Example:
 
